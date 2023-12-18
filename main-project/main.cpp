@@ -1,1 +1,7 @@
-Шарендо Людмила вариант 3
+#include <iostream>
+
+int main()
+{
+    std::cout << "Hello\n";
+    return 0;
+}
